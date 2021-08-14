@@ -166,8 +166,8 @@
             },
             {
               "key": "a2",
-              "description": "Ajuste la direction du jet.\nAjuste la portée du jet.",
-              "descriptions": []
+              "description": null,
+              "descriptions": ["Ajuste la direction du jet",  "Ajuste la portée du jet."]
             }
           ]
         },
@@ -7168,7 +7168,7 @@
     {
       "key": "Crystalize",
       "name": "Cristallisation",
-      "effect": "Créé un fragment élémentaire à ramasser pour gagner un bouclier."
+      "effect": "Crée un fragment élémentaire à ramasser pour gagner un bouclier."
     },
     {
       "key": "Electro-Charged",
@@ -7198,12 +7198,12 @@
     {
       "key": "Swirl",
       "name": "Dispersion",
-      "effect": "Inflige des DGT supplémentaires en zone de l'élément dispersé, blessant les ennemies présents."
+      "effect": "Inflige des DGT supplémentaires en zone de l'élément dispersé, blessant les ennemis présents."
     },
     {
       "key": "Vaporize",
       "name": "Évaporation",
-      "effect": "Inflige des DGT supplémentaire. L’élément qui déclenche la réaction donne un Taux de DGT supplémentaire. 100% pour l'Hydro, 50% pour le Pyro."
+      "effect": "Inflige des DGT supplémentaires. L’élément qui déclenche la réaction donne un Taux de DGT supplémentaire. 100% pour l'Hydro, 50% pour le Pyro."
     }
   ],
   "resonance": [
